@@ -25,3 +25,4 @@ The Contact Manager App's backend API was developed using the following technolo
 -   **Node.js:** A runtime environment for executing JavaScript code on the server-side.
 -   **Express:** A popular and robust web application framework for building APIs and web applications.
 -   **JSON Web Tokens (JWT):** A method for securely transmitting information between parties as a JSON object. JWTs are commonly used for user authentication and authorization in web applications.
+-   **MongoDB:** A NoSQL database system that stores data in a flexible, JSON-like format and is commonly used in web applications for data storage and retrieval.
