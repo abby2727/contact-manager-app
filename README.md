@@ -16,17 +16,7 @@ The Contact Manager App offers the following key features:
 
 -   **Contact Deletion:** The app provides a straightforward method for users to remove contacts they no longer need.
 
-## Future Features
-
-I plan to add this feature in the future:
-
--   **Search Functionality:** Users can search for specific contacts using various criteria, such as name, phone number, or email.
-
--   **Contact Categories:** Contacts can be categorized or tagged for better organization and filtering.
-
 -   **User Authentication:** To secure contact data, the app includes user authentication mechanisms, allowing registered users to manage their contacts.
-
--   **User Authorization:** Different user roles, such as administrators and standard users, ensure appropriate access control and permissions.
 
 ## Technologies Used
 
@@ -34,3 +24,4 @@ The Contact Manager App's backend API was developed using the following technolo
 
 -   **Node.js:** A runtime environment for executing JavaScript code on the server-side.
 -   **Express:** A popular and robust web application framework for building APIs and web applications.
+-   **JSON Web Tokens (JWT):** A method for securely transmitting information between parties as a JSON object. JWTs are commonly used for user authentication and authorization in web applications.
